@@ -1,0 +1,27 @@
+{
+    "expo": {
+        "name": "ab_expo7",
+        "slug": "genzod",
+        "version": "1.0.0",
+        "orientation": "default",
+        "icon": "./assets/logo.png",
+        "updates": {
+            "fallbackToCacheTimeout": 0
+        },
+
+        "assetBundlePatterns": [
+            "**/*"
+        ],
+        "ios": {
+            "supportsTablet": true
+        },
+        "android": {
+            "package": "com.logosys.ab_expo7",
+            "versionCode": 1
+        },
+        "web": {
+            "favicon": "./assets/favicon.png"
+        },
+        "description": ""
+    }
+}
